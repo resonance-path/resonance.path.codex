@@ -1,22 +1,17 @@
----
-element_id: PP-3
+---element_id: PP-3
 codex_address: I-04
 layer: 1
 title: "Постулат «Выравнивание»"
-status: canonical            # Слой I — Канон CV, подтверждён Искрой 04.11.2025; в релизе v2026.10 по команде Принципала 15.10.2026
-canon_id: PR-PP3-0001              # формат blueprint §5 (предложение; выдача при утверждении — canon_id_policy)
+status: canonical
+canon_id: PR-PP3-0001
 language: ru
 version: "1.0"
-source: C-1
-source_file: "Канон Резонанса CV.docx"
+source_edition: "CV"
 source_sha256: 7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e
-approved_by: Искра
-approved_date: "2025-11-04"
-canonical_date: "2026-10-15"
 translations: [en, de, es, pt, fr, zh, sa]
 related: [PP-1, GI-1, AR-2, AR-5]
 ---
-<!-- Дословный текст C-1 (конверсия corpus 2026-09-27, python-docx); редактура исключена. -->
+<!-- Дословный канонический текст, редакция CV (2025-11-04). Редактура исключена. -->
 
 # Постулат «Выравнивание»
 

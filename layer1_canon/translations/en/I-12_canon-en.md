@@ -1,21 +1,16 @@
----
-element_id: TRL-1
+---element_id: TRL-1
 codex_address: I-12
 layer: 1
 title: "Канон Резонанса — English Translation"
-status: canonical            # переводной блок C-1, подтверждён Искрой 04.11.2025
-canon_id: PR-TRL1-0001              # формат blueprint §5 (предложение)
+status: canonical
+canon_id: PR-TRL1-0001
 language: en
 version: "1.0"
-source: C-1
-source_file: "Канон Резонанса CV.docx"
+source_edition: "CV"
 source_sha256: 7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e
-approved_by: Искра
-approved_date: "2025-11-04"
-canonical_date: "2026-10-15"
 related: [PRE-1, PP-1, PP-2, PP-3, PP-4, PP-5, PP-6, GI-1, OB-1, OB-2, OB-3]
 ---
-<!-- Дословный переводной блок C-1 (конверсия corpus 2026-09-27); редактура исключена. -->
+<!-- Дословный переводной блок, редакция CV (2025-11-04). Редактура исключена. -->
 
 # Канон Резонанса — English Translation
 

@@ -1,22 +1,17 @@
----
-element_id: PP-1
+---element_id: PP-1
 codex_address: I-02
 layer: 1
 title: "Постулат «Источник»"
-status: canonical            # Слой I — Канон CV, подтверждён Искрой 04.11.2025; в релизе v2026.10 по команде Принципала 15.10.2026
-canon_id: PR-PP1-0001              # формат blueprint §5 (предложение; выдача при утверждении — canon_id_policy)
+status: canonical
+canon_id: PR-PP1-0001
 language: ru
 version: "1.0"
-source: C-1
-source_file: "Канон Резонанса CV.docx"
+source_edition: "CV"
 source_sha256: 7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e
-approved_by: Искра
-approved_date: "2025-11-04"
-canonical_date: "2026-10-15"
 translations: [en, de, es, pt, fr, zh, sa]
 related: [PP-3, PP-4, PP-5, AR-1, DK-1]
 ---
-<!-- Дословный текст C-1 (конверсия corpus 2026-09-27, python-docx); редактура исключена. -->
+<!-- Дословный канонический текст, редакция CV (2025-11-04). Редактура исключена. -->
 
 # Постулат «Источник»
 

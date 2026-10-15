@@ -1,0 +1,16 @@
+codex: "Кодекс Резонанса"
+path: "Путь Резонанса"
+release: "v2026.10.1"
+release_date: "2026-10-15"
+source_of_truth: "local"          # локальный Кодекс; GitHub — зеркало
+languages: [ru, en, de, es, pt, fr, zh, sa]
+layers:
+  "1": {elements: 12, canonical: 12}   # Канон (редакция CV) — единственный канонический слой
+  "2": {elements: 0, note: "Аксиомы Реальности — в разработке"}
+  "3": {elements: 0, note: "Ответы — в разработке"}
+  "4": {elements: 0, note: "Предтечи/апокриф — в разработке"}
+  "5": {elements: 0, note: "Протоколы — в разработке"}
+canonical_source:
+  edition: "CV"
+  date: "2025-11-04"
+  sha256: "7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e"

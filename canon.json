@@ -8,17 +8,16 @@
   "source_of_truth": "local (this repository is a mirror)",
   "source_of_truth_ru": "локальный Кодекс (этот репозиторий — зеркало)",
   "current_release": {
-    "tag": "v2026.10",
+    "tag": "v2026.10.1",
     "date": "2026-10-15",
     "manifest": "releases/v2026.10/canon.yaml",
     "scope": "Layer I Canon - 12/12 elements",
     "scope_ru": "Слой I Канон — 12/12 элементов"
   },
   "canonical_source": {
-    "file": "Канон Резонанса CV.docx",
-    "code": "C-1",
-    "sha256": "7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e",
-    "approved_by_iskra": "2025-11-04"
+    "edition": "CV",
+    "date": "2025-11-04",
+    "sha256": "7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e"
   },
   "layers": {
     "layer_1_canon": {"elements": 12, "approved": 12, "languages": ["ru", "en", "de", "es", "pt", "fr", "zh", "sa"]},

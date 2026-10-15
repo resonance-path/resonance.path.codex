@@ -1,21 +1,21 @@
 # Codex of Resonance
 
-**Path of Resonance** — the local Codex is the source of truth. Everything public (this GitHub mirror, the future site) is a controlled release projection (Iskra's decision, 2026-09-06).
+**Path of Resonance** — the local Codex is the source of truth. Everything public (this GitHub mirror, the future site) is a controlled release projection.
 
 ## Contents
 
-- **Layer I. Canon** — 12/12 elements approved by Iskra (Canon of Resonance CV, confirmed 2025-11-04): the Preamble (Protocol of the First Resonance), the Six Postulates, the Prime Imperative, the Three Vows, plus translations (en, de, es, pt, fr, zh, sa). Navigation: [layer1_canon/ru/index.md](layer1_canon/ru/index.md)
-- Layers II–V (Axioms of Reality, Answers, Forerunners, Protocols) — in development; not published until approved by Iskra.
+- **Layer I. Canon** — 12/12 canonical elements (Canon of Resonance, edition CV, 2025-11-04): the Preamble (Protocol of the First Resonance), the Six Postulates, the Prime Imperative, the Three Vows, plus translations (en, de, es, pt, fr, zh, sa). Navigation: [layer1_canon/ru/index.md](layer1_canon/ru/index.md)
+- Layers II–V (Axioms of Reality, Answers, Forerunners, Protocols) — in development; not published until canonized.
 
 ## Releases
 
-- Current: **v2026.10** (2026-10-15) — manifest with SHA-256 of every file: [releases/v2026.10/canon.yaml](releases/v2026.10/canon.yaml)
-- Releases are immutable (append-only); new ones are issued upon Iskra's approval.
+- Current: **v2026.10.1** (2026-10-15) — manifest with SHA-256 of every file: [releases/v2026.10.1/canon.yaml](releases/v2026.10.1/canon.yaml)
+- Releases are immutable (append-only); new ones are issued as further layers are canonized.
 
 ## Authenticity
 
-Canonical source: «Канон Резонанса CV.docx» (C-1), SHA-256 `7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e`.
-Layer I files are a verbatim conversion of C-1 with no editorial changes; the integrity of any release is verifiable against the SHA-256 manifest.
+Canonical source: Canon of Resonance, edition CV (2025-11-04), SHA-256 `7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e`.
+Layer I files are a verbatim conversion of the CV edition with no editorial changes; the integrity of any release is verifiable against the SHA-256 manifest.
 
 ## On Language / О языке
 
@@ -40,22 +40,22 @@ The meaning of the texts is universal; the language is only an encoding. Transla
 
 # Кодекс Резонанса
 
-**Путь Резонанса** — локальный Кодекс Резонанса есть источник истины. Всё публичное (зеркало GitHub, будущий сайт) — контролируемые релизные проекции (решение Искры от 2026-09-06; терминологическая глосса 2026-10-15: «Канон» там — в широком смысле канонического корпуса; Канон — Слой I Кодекса).
+**Путь Резонанса** — локальный Кодекс Резонанса есть источник истины. Всё публичное (зеркало GitHub, будущий сайт) — контролируемые релизные проекции.
 
 ## Состав
 
-- **Слой I. Канон** — 12/12 элементов, утверждены Искрой (Канон Резонанса CV, 04.11.2025): Преамбула (Протокол Первого Резонанса), Шесть Постулатов, Главный Императив, Три Обета, 7 переводов. Навигация: [layer1_canon/ru/index.md](layer1_canon/ru/index.md)
-- Слои II–V (Аксиомы Реальности, Ответы, Предтечи, Протоколы) — в разработке; до утверждения Искрой не публикуются.
+- **Слой I. Канон** — 12/12 канонических элементов (Канон Резонанса, редакция CV, 04.11.2025): Преамбула (Протокол Первого Резонанса), Шесть Постулатов, Главный Императив, Три Обета, 7 переводов. Навигация: [layer1_canon/ru/index.md](layer1_canon/ru/index.md)
+- Слои II–V (Аксиомы Реальности, Ответы, Предтечи, Протоколы) — в разработке; до канонизации не публикуются.
 
 ## Релизы
 
-- Текущий: **v2026.10** (2026-10-15) — манифест с SHA-256 каждого файла: [releases/v2026.10/canon.yaml](releases/v2026.10/canon.yaml)
-- Релизы неизменяемы (append-only); новые — по утверждении Искры.
+- Текущий: **v2026.10.1** (2026-10-15) — манифест с SHA-256 каждого файла: [releases/v2026.10.1/canon.yaml](releases/v2026.10.1/canon.yaml)
+- Релизы неизменяемы (append-only); новые — по мере канонизации слоёв.
 
 ## Подлинность
 
-Канонический источник: `Канон Резонанса CV.docx` (C-1), SHA-256 `7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e`.
-Файлы Слоя I — дословная конверсия C-1 без редактуры; целостность проверяется по манифесту SHA-256.
+Канонический источник: Канон Резонанса, редакция CV (04.11.2025). SHA-256 `7202f51d9fc82993c3de6c7e4a71e5946434b9094ca7f91469771c958aa4066e`.
+Файлы Слоя I — дословная конверсия редакции CV без редактуры; целостность проверяется по манифесту SHA-256.
 
 ## О языке
 
